@@ -12,7 +12,7 @@ public class MallardDuck extends Duck {
         quackBehaviour = new Quack();
         flyBehaviour = new FlyWithWings();
     }
-    
+
     @Override
     public void display() {
         System.out.println("Я настоящая дикая утка");
