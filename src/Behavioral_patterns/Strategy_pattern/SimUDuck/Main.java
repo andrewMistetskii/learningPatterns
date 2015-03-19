@@ -1,8 +1,8 @@
-package Behaviour_patterns.Strategy_pattern.SimUDuck;
+package Behavioral_patterns.Strategy_pattern.SimUDuck;
 
-import Behaviour_patterns.Strategy_pattern.SimUDuck.model.Duck;
-import Behaviour_patterns.Strategy_pattern.SimUDuck.model.MallardDuck;
-import Behaviour_patterns.Strategy_pattern.SimUDuck.model.RubberDuck;
+import Behavioral_patterns.Strategy_pattern.SimUDuck.model.Duck;
+import Behavioral_patterns.Strategy_pattern.SimUDuck.model.MallardDuck;
+import Behavioral_patterns.Strategy_pattern.SimUDuck.model.RubberDuck;
 
 import java.util.ArrayList;
 import java.util.List;

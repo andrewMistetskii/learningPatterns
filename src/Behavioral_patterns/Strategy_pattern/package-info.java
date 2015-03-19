@@ -1,7 +1,7 @@
 /**
  * Created by podo on 19.03.15.
  */
-package Behaviour_patterns.Strategy_pattern;
+package Behavioral_patterns.Strategy_pattern;
 
 /**
  Паттерн Стратегия определяет семейство алгоритмов, инкапсулирует каждый из них и обеспечивает их

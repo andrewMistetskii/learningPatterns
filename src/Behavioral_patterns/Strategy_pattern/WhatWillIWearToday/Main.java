@@ -1,7 +1,7 @@
-package Behaviour_patterns.Strategy_pattern.WhatWillIWearToday;
+package Behavioral_patterns.Strategy_pattern.WhatWillIWearToday;
 
-import Behaviour_patterns.Strategy_pattern.WhatWillIWearToday.interfaces.Impl.RainWearingStrategy;
-import Behaviour_patterns.Strategy_pattern.WhatWillIWearToday.interfaces.Impl.SunshineWearingStrategy;
+import Behavioral_patterns.Strategy_pattern.WhatWillIWearToday.interfaces.Impl.RainWearingStrategy;
+import Behavioral_patterns.Strategy_pattern.WhatWillIWearToday.interfaces.Impl.SunshineWearingStrategy;
 
 /**
  * Created by podo on 19.03.15.

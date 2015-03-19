@@ -1,7 +1,7 @@
-package Behaviour_patterns.Strategy_pattern.SimUDuck.model;
+package Behavioral_patterns.Strategy_pattern.SimUDuck.model;
 
-import Behaviour_patterns.Strategy_pattern.SimUDuck.interfaces.FlyBehaviour;
-import Behaviour_patterns.Strategy_pattern.SimUDuck.interfaces.QuackBehaviour;
+import Behavioral_patterns.Strategy_pattern.SimUDuck.interfaces.FlyBehaviour;
+import Behavioral_patterns.Strategy_pattern.SimUDuck.interfaces.QuackBehaviour;
 
 /**
  * Created by podo on 19.03.15.
