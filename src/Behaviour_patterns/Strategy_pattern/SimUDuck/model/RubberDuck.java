@@ -1,7 +1,7 @@
-package Behaviour_patterns.Strategy_pattern.SimUDuck;
+package Behaviour_patterns.Strategy_pattern.SimUDuck.model;
 
-import Behaviour_patterns.Strategy_pattern.SimUDuck.Impl.FlyNoWay;
-import Behaviour_patterns.Strategy_pattern.SimUDuck.Impl.Squeak;
+import Behaviour_patterns.Strategy_pattern.SimUDuck.interfaces.Impl.FlyNoWay;
+import Behaviour_patterns.Strategy_pattern.SimUDuck.interfaces.Impl.Squeak;
 
 /**
  * Created by podo on 19.03.15.

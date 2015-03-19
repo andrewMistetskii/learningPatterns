@@ -1,6 +1,6 @@
-package Behaviour_patterns.Strategy_pattern.SimUDuck.Impl;
+package Behaviour_patterns.Strategy_pattern.SimUDuck.interfaces.Impl;
 
-import Behaviour_patterns.Strategy_pattern.SimUDuck.QuackBehaviour;
+import Behaviour_patterns.Strategy_pattern.SimUDuck.interfaces.QuackBehaviour;
 
 /**
  * Created by podo on 19.03.15.

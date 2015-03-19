@@ -1,4 +1,4 @@
-package Behaviour_patterns.Strategy_pattern.SimUDuck;
+package Behaviour_patterns.Strategy_pattern.SimUDuck.interfaces;
 
 /**
  * Created by podo on 19.03.15.

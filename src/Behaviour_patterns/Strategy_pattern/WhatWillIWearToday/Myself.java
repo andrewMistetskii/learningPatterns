@@ -1,6 +1,6 @@
 package Behaviour_patterns.Strategy_pattern.WhatWillIWearToday;
 
-import Behaviour_patterns.Strategy_pattern.WhatWillIWearToday.Impl.DefaultWearingStrategy;
+import Behaviour_patterns.Strategy_pattern.WhatWillIWearToday.interfaces.Impl.DefaultWearingStrategy;
 import Behaviour_patterns.Strategy_pattern.WhatWillIWearToday.interfaces.IWearingStrategy;
 
 import java.text.MessageFormat;

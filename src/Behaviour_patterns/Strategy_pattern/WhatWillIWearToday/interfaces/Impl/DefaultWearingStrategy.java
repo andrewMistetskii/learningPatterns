@@ -1,4 +1,4 @@
-package Behaviour_patterns.Strategy_pattern.WhatWillIWearToday.Impl;
+package Behaviour_patterns.Strategy_pattern.WhatWillIWearToday.interfaces.Impl;
 
 import Behaviour_patterns.Strategy_pattern.WhatWillIWearToday.interfaces.IWearingStrategy;
 
