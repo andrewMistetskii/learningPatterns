@@ -15,10 +15,10 @@ public class WeatherStation {
 
         WeatherData weatherData = new WeatherData();
 
-        CurrentWeatherDisplay KievWeatherDisplay =
-                new CurrentWeatherDisplay("Киев", weatherData);
+        CurrentWeatherDisplay weatherDisplay =
+                new CurrentWeatherDisplay("Хмельницкий", weatherData);
 
-        weatherData.setMeasurement(KievWeatherDisplay.getCity());
+        weatherData.setMeasurement(weatherDisplay.getCity());
 
     }
 }
