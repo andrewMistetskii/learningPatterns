@@ -10,3 +10,10 @@ package Behavioral_patterns.Observer_pattern.WeatherStation;
  что при изменении состояния одного объекта происходит автоматическое оповещение и обновление
  всех зависимых объектов
  */
+
+/**
+ * для Weather Station необходимы следующие дополнительные библиотеки :
+ * http://mvnrepository.com/artifact/org.apache.commons/commons-lang3/3.3.2 commons-lang
+ * http://mvnrepository.com/artifact/org.json/json/20090211  json in Java
+ * http://mvnrepository.com/artifact/commons-logging/commons-logging/1.1.1
+ */
