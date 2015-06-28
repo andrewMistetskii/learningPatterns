@@ -7,7 +7,7 @@ import org.json.JSONException;
 import java.io.IOException;
 
 /**
- * Created by podo on 20.03.15.
+ * 
  */
 public class WeatherStation {
 
